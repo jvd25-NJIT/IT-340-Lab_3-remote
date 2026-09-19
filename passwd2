@@ -1,3 +1,4 @@
+#This is to test branches and using the git status command when changing a file in the branch.
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 bin:x:2:2:bin:/bin:/usr/sbin/nologin
