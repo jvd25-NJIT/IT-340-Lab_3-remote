@@ -1,0 +1,32 @@
+commit 3e14aac9d3f698f284ea4c619316f6e4ee54e023
+Author: Jester <jvd25@njit.edu>
+Date:   Sat Sep 19 04:08:30 2026 -0400
+
+    Revert "Commiting this text file to test reverting it later on"
+    
+    This reverts commit 82e0db9f034977e0e08bc78083c6b3f8356ef777.
+
+commit 82e0db9f034977e0e08bc78083c6b3f8356ef777
+Author: Jester <jvd25@njit.edu>
+Date:   Sat Sep 19 04:05:39 2026 -0400
+
+    Commiting this text file to test reverting it later on
+
+commit ea62f0b6f1088455f346cd28d24523bede1d3dcb
+Author: Jester <jvd25@njit.edu>
+Date:   Sat Sep 19 04:03:02 2026 -0400
+
+    Pushed my change to group2 into Github
+
+commit 94de29f6f7fc3d645e5b431d5d1132675cd79c52
+Author: Jester <jvd25@njit.edu>
+Date:   Sat Sep 19 03:44:55 2026 -0400
+
+    Experimenting with branches and commiting new changes
+
+commit e34720ef97151cc2bccf06d28636a1197b694407
+Author: Jester <jvd25@njit.edu>
+Date:   Sat Sep 19 03:33:09 2026 -0400
+
+    Saving copied files from /etc directory: passwd, group, hostname, and os-release.
+    Also saving copied file from /sys/kernel/debug directory: multigrain_timestamps
